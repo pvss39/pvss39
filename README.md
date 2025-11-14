@@ -16,27 +16,4 @@ This GitHub is where I track my learning and experiments.
 
 ---
 
-## Tech & tools I’m using
 
-- **Languages:** Python, C#, JavaScript/TypeScript  
-- **AI / GenAI:** LLMs, RAG, basic fine-tuning (LoRA / QLoRA), vector databases  
-- **Backend / Dev:** REST APIs, VS Code, Git, GitHub  
-- **Cloud & Data (learning):** Azure / AWS basics, working with files, CSVs, simple data pipelines
-
----
-
-## Projects you might see here
-
-I’m gradually adding projects like:
-
-- A small GenAI demo that answers questions from agriculture notes and PDFs  
-- Simple RAG experiments over text data  
-- Python scripts and notebooks where I practise ML and GenAI concepts  
-- Other experiments where I try GenAI on non-agri use cases
-
----
-
-## Contact
-
-- GitHub: you’re already here 🙂  
-- (Add LinkedIn or email here if you want)
