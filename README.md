@@ -13,6 +13,7 @@ This GitHub is where I track my learning and experiments.
 - Practising Python by building small, clear projects  
 - Testing ideas that combine my agriculture background with AI  
 - Exploring other domains where GenAI can be useful (not only agri)
+- just trying to get used of git 
 
 ---
 
