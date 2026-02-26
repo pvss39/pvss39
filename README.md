@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hi, I'm Pavan Vinay! 👋
+
+### AI & Machine Learning Enthusiast
+I build intelligent systems and data-driven solutions.
+
+---
+
+## 🚀 Featured Projects
+* **[GenAI RAG Project](your-link-here)** - Short description of what it does.
+* **[Hello Farm](your-link-here)** - An AI solution for agricultural needs.
+
+## 🛠 Tech Stack
+- **Languages:** Python, SQL
+- **AI/ML:** PyTorch, LangChain, OpenAI
+- **Tools:** Docker, Git, AWS
+
+---
 
 <!--
 **pvss39/pvss39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
