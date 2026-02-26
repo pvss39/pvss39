@@ -6,8 +6,8 @@ I build intelligent systems and data-driven solutions.
 ---
 
 ## 🚀 Featured Projects
-* **[GenAI RAG Project](your-link-here)** - Short description of what it does.
-* **[Hello Farm](your-link-here)** - An AI solution for agricultural needs.
+* **[GenAI RAG Project])() - End-to-end RAG pipeline built from scratch in Python — no wrappers, no cloud, no cost. HuggingFace embeddings, Chroma vector DB, Llama 3.2 via Ollama, running fully offline. Built to understand how retrieval-augmented generation actually works under the hood.
+* **[Hello Farm]()-AI-powered satellite crop monitoring for my father's 3.5-acre Jowar farm in Andhra Pradesh — LangGraph multi-agent pipeline, Sentinel-2 NDVI, bilingual Telugu/English advisories via Telegram. Built to close the gap between free satellite data and the farmers who need it. 
 
 ## 🛠 Tech Stack
 - **Languages:** Python, SQL
